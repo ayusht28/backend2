@@ -1,0 +1,33 @@
+# dependencies
+node_modules
+
+# build outputs
+dist
+build
+out
+coverage
+
+# environment files
+.env
+.env.*
+
+# lock files
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+
+# logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# editor folders
+.vscode
+.idea
+
+# generated / cache
+.cache
+.next
+.vercel
